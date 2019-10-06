@@ -1,0 +1,34 @@
+.container {
+  padding-top: 20px;
+}
+[btn],
+.form-control, .resultado {
+  width: 130px;
+  display: inline;
+}
+[btn] {
+    margin-left: 10px;
+    text-align: center;
+}
+.form-control{
+    margin-top: 5px;
+    margin: 0 7px;
+}
+.functionName{
+    margin-left: 25%;
+    margin-top: 13px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.resultado{
+    color: brown;
+    padding: 5px;
+    font-size: 16pt;
+}
+[input], [output]{
+    display: inline;
+    text-align: left
+}
+[input]{
+    width: 33%;
+    height: 200px;
+}
